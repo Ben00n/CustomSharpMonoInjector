@@ -1,0 +1,17 @@
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi_gui.exe.config
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi_gui.exe
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi_gui.pdb
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\SharpMonoInjector.Gui.csproj.AssemblyReference.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\Views\MainWindow.g.cs
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\App.g.cs
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\smi_gui_MarkupCompile.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\smi_gui_MarkupCompile.lref
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\Views\MainWindow.baml
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\smi_gui.g.resources
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\SharpMonoInjector.Gui.Properties.Resources.resources
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\SharpMonoInjector.Gui.csproj.GenerateResource.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\SharpMonoInjector.Gui.csproj.CoreCompileInputs.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\SharpMonoInjector.Gui.csproj.CopyComplete
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\smi_gui.exe
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Gui\obj\Debug\smi_gui.pdb

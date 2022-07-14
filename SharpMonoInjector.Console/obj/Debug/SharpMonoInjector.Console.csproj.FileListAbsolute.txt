@@ -1,0 +1,8 @@
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi.exe.config
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi.exe
+C:\Users\benba\Desktop\SharpMonoInjector-master\build\debug\smi.pdb
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.AssemblyReference.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.CoreCompileInputs.cache
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.CopyComplete
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Console\obj\Debug\smi.exe
+C:\Users\benba\Desktop\SharpMonoInjector-master\SharpMonoInjector.Console\obj\Debug\smi.pdb

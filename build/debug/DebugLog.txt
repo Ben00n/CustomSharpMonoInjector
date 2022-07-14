@@ -1,0 +1,6 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\McAfee.com\Agent\mcupdate.exe C:\Program Files\Common Files\McAfee\ModuleCore\ProtectedModuleHost.exe
+
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
