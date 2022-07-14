@@ -12,7 +12,7 @@ Added custom error checks.
 
 Credit's to wh0am15533 for fix and update: https://github.com/wh0am15533/SharpMonoInjector
 
-Credit's to Original Project and Author: (https://github.com/warbler/SharpMonoInjector)
+Credit's to Warbler Original Project and Author: (https://github.com/warbler/SharpMonoInjector)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Wh0's Static Injector
@@ -49,4 +49,4 @@ modinjector remove "PATH_TO_GAMES_DATA_FOLDER"
 
 
 
-Full Credits to wh0am15533 for this.
+Full Credits to wh0am15533 for this. https://github.com/wh0am15533/WH0sUnityInjector
