@@ -7,4 +7,5 @@ SharpMonoInjector works by dynamically generating machine code, writing it to th
 Both x86 and x64 processes are supported.
 
 Credit's to wh0am15533 for fix and update: https://github.com/wh0am15533/SharpMonoInjector
+
 Credit's to Original Project and Author: (https://github.com/warbler/SharpMonoInjector)
